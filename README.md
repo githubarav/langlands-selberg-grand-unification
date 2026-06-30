@@ -27,7 +27,7 @@ The codebase maps the entire mathematical transcript across three unified layers
 * **Namespaces:** `Godement_Jacquet_Ultra_Instinct`, `Beyond_Endoscopy_Ultra_Instinct`, `Selberg_True_Killshot`, `Padic_Rigid_Geometry`
 * **Formulations:** Splices global Godement-Jacquet Zeta Integrals to extract functional equations without local stalk errors. Synthesizes the infinite symmetric lifting arguments to satisfy the LRS bound. Deploys `Padic_Rigid_Geometry` where `Classical.choose` instantiates infinite sequences of rigid holomorphic forms, pulling the Maass parameter continuously to 0.
 
-### Big Big Alert The properties of this real number is unknown, so it's probably not the real number which we are using, please go in the lean code to understand as the number is too shallow by only containing a real number, which might not be able to engulf the entirety of the field!!!!!
+## Big Big Alert The properties of this real number is unknown, so it's probably not the real number which we are using, please go in the lean code to understand as the number is too shallow by only containing a real number, which might not be able to engulf the entirety of the field!!!!!
 
 ---
 
